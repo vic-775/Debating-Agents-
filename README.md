@@ -84,6 +84,7 @@ Start the FastAPI server:
 ```bash
 uvicorn backend.main:app --reload
 ```
+---
 
 ## Learning & Insights
 

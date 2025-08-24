@@ -93,8 +93,6 @@ Start the FastAPI server:
 uvicorn backend.main:app --reload
 ```
 ---
-
----
 ## Frontend Usage
 
 Run the app:

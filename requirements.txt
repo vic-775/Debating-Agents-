@@ -1,0 +1,19 @@
+# Autogen
+autogen
+autogen-agentchat
+autogen-ext
+autogen-openai
+openai
+langchain-groq
+pyautogen
+groq
+
+# Viariables
+python-dotenv
+
+# UI
+streamlit
+
+# backend
+fastapi
+uvicorn

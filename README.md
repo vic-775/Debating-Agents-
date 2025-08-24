@@ -68,7 +68,11 @@ It uses **Groq LLMs** for generating responses, **FastAPI** as the backend serve
     cd debate-simulation
     ```
 
-2. Create a virtual environment:
+2. Create & activate a virtual environment:
+    ```bash
+    uv init
+    uv venv
+    ```
 
 3. Install dependencies:
     ```bash

@@ -59,7 +59,7 @@ It uses **Groq LLMs** for generating responses, **FastAPI** as the backend serve
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/debate-simulation.git
+    git clone https://github.com/vic-775/Debating-Agents-.git
     cd debate-simulation
     ```
 

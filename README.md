@@ -85,13 +85,22 @@ It uses **Groq LLMs** for generating responses, **FastAPI** as the backend serve
     ```
 
 ---
-
 ## Backend Usage
 
 Start the FastAPI server:
 
 ```bash
 uvicorn backend.main:app --reload
+```
+---
+
+---
+## Frontend Usage
+
+Run the app:
+
+```bash
+streamlit run frontend/app.py
 ```
 ---
 

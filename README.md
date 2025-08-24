@@ -7,6 +7,11 @@ This project leverages **Autogen's multi-agent framework** to implement a **roun
 - **Critic Agent (Daniel)** – argues against the topic.
 - **Host Agent (Mercy)** – moderates the debate, announces rounds, and declares the winner.
 
+![App Screenshot](images/app img1.png)
+![App Screenshot](images/app img 2.png)
+![App Screenshot](images/app img 3.png)
+![App Screenshot](images/app img 4.png)
+
 **Key points about the implementation:**
 
 - **Round-Robin Message Handling**: Each agent takes turns responding in a structured round, coordinated by Autogen's `RoundRobinGroupChat`.

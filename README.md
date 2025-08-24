@@ -1,5 +1,5 @@
 ## Multi-Agent Debate System
-![Debating agents (Autogent)](images/debating_image.png)
+![Debating agents (Autogent)](images/debatingimage.png)
 
 This project leverages **Autogen's multi-agent framework** to implement a **round-robin chat** debate simulation. The system consists of:
 
@@ -7,10 +7,10 @@ This project leverages **Autogen's multi-agent framework** to implement a **roun
 - **Critic Agent (Daniel)** – argues against the topic.
 - **Host Agent (Mercy)** – moderates the debate, announces rounds, and declares the winner.
 
-![App Screenshot](images/app img1.png)
-![App Screenshot](images/app img 2.png)
-![App Screenshot](images/app img 3.png)
-![App Screenshot](images/app img 4.png)
+![App Screenshot](images/appimg1.png)
+![App Screenshot](images/appimg2.png)
+![App Screenshot](images/appimg3.png)
+![App Screenshot](images/appimg4.png)
 
 **Key points about the implementation:**
 

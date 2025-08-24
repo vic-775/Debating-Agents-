@@ -1,5 +1,5 @@
 ## Multi-Agent Debate System
-![Debating agents](images/debating_image.png)
+![Debating agents (Autogent)](images/debating_image.png)
 
 This project leverages **Autogen's multi-agent framework** to implement a **round-robin chat** debate simulation. The system consists of:
 

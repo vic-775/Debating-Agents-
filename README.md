@@ -83,3 +83,20 @@ Start the FastAPI server:
 
 ```bash
 uvicorn backend.main:app --reload
+```
+
+## Learning & Insights
+
+From building this Multi-Agent Debate System, I learned:
+
+- **Multi-Agent Coordination**: How to manage multiple AI agents in a structured interaction using Autogen’s RoundRobinGroupChat.
+
+- **Agent Prompt Engineering**: Crafting distinct system prompts for supporter, critic, and host agents to ensure coherent and meaningful debate outputs.
+
+- **Asynchronous Streaming**: Using asyncio to stream messages in real-time, improving responsiveness in interactive applications.
+
+- **Backend-Frontend Integration**: Connecting FastAPI with Streamlit for seamless user interaction and real-time data display.
+
+- **Dynamic Topic Handling**: Designing agents to adapt their arguments to user-provided topics, demonstrating flexible AI behavior.
+
+- **Termination Conditions**: Using TextMentionTermination to control conversation flow programmatically.
